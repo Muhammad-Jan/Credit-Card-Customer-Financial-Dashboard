@@ -87,31 +87,27 @@ The dashboard tracks the following KPIs:
 
 ### Credit Card Financial Dashboard
 
-- Analysis of transaction trends  
-- Spending behavior by category  
-- Credit utilization patterns  
-- Payment method analysis  
+Analysis of transaction trends, spending behavior, credit utilization, and payment methods.
+
+![Credit Card Financial Dashboard](Credit_Card_Report.png)
 
 ### Customer Demographics Dashboard
 
-- Customer segmentation by income and job  
-- Demographic distribution analysis  
-- Loan and ownership insights  
-- Customer satisfaction scoring  
+Customer segmentation, demographic analysis, loan/ownership insights, and satisfaction scoring.
+
+![Customer Demographics Dashboard](Customers_Report.png)
 
 ---
 
 ## Project Files
 
 ### Power BI Dashboard
-- [Credit Card Financial Dashboard.pbix](https://github.com/Muhammad-Jan/Credit-Card-Customer-Financial-Dashboard/blob/main/Credit%20Card%20Financial%20Dashboard.pbix)
-
-### Dashboard Screenshots
-- [Credit Card Report](https://github.com/Muhammad-Jan/Credit-Card-Customer-Financial-Dashboard/blob/main/Credit_Card_Report.png)  
-- [Customer Report](https://github.com/Muhammad-Jan/Credit-Card-Customer-Financial-Dashboard/blob/main/Customers_Report.png)
+- Credit Card Financial Dashboard.pbix  
+https://github.com/Muhammad-Jan/Credit-Card-Customer-Financial-Dashboard/blob/main/Credit%20Card%20Financial%20Dashboard.pbix
 
 ### SQL Scripts
-- [SQL Query - Financial Dashboard Data](https://github.com/Muhammad-Jan/Credit-Card-Customer-Financial-Dashboard/blob/main/SQL%20Query%20-%20Financial%20Dashboard%20Data.sql)
+- SQL Query - Financial Dashboard Data  
+https://github.com/Muhammad-Jan/Credit-Card-Customer-Financial-Dashboard/blob/main/SQL%20Query%20-%20Financial%20Dashboard%20Data.sql
 
 ---
 
